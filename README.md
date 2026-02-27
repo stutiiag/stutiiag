@@ -2,7 +2,7 @@
 <h3 align="center">Aspiring Tech Enthusiast | Problem Solver | Future Innovator</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/46qZb6s0y9s2c/giphy.gif" width="180" alt="cute panda"/>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2sxY3J6aHA5MjE3aDlzc3BlNzkxNnV2dGdnYWc3cjVjbW1oeTE1ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif" width="300" alt="cute panda"/>
 </p>
 
 <p align="center">
