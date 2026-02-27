@@ -2,7 +2,11 @@
 <h3 align="center">Aspiring Tech Enthusiast | Problem Solver | Future Innovator</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=stutiagarwal&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views" />
+  <img src="https://media.giphy.com/media/46qZb6s0y9s2c/giphy.gif" width="180" alt="cute panda"/>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=stutiagarwal&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
 ---
@@ -12,7 +16,7 @@
 - 🎓 Passionate about **technology and innovation**
 - 💡 Interested in **AI, Web Development & Emerging Tech**
 - 🌱 Currently learning and improving my **coding & problem-solving skills**
-- 🚀 Always eager to explore new tools and build meaningful projects
+- 🚀 Love building creative and meaningful projects
 - 🤝 Open to collaboration and learning opportunities
 
 ---
@@ -23,7 +27,7 @@
 `C++` `Python` `JavaScript` `HTML` `CSS`
 
 ⚙️ Tools & Technologies  
-`Git` `GitHub` `VS Code` `Canva` `Figma`
+`Git` `GitHub` `VS Code` `Figma` `Canva`
 
 📚 Currently Exploring  
 `Artificial Intelligence` • `Data Structures` • `Web Development`
@@ -41,17 +45,17 @@
 
 ## 🌟 Projects & Interests
 
-✨ Building beginner-friendly tech projects  
-✨ Exploring real-world problem solving  
-✨ Interested in creative and impactful solutions  
+✨ Beginner-friendly tech projects  
+✨ Real-world problem solving  
+✨ Creative & impactful solutions  
 
 ---
 
 ## 📫 Connect With Me
 
 <p align="left">
-<a href="https://www.linkedin.com/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" height="30" /></a>
-<a href="mailto:your-email@gmail.com"><img align="center" src="https://skillicons.dev/icons?i=gmail" height="30" /></a>
+<a href="https://www.linkedin.com/" target="blank"><img src="https://skillicons.dev/icons?i=linkedin" height="30"/></a>
+<a href="mailto:your-email@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="30"/></a>
 </p>
 
 ---
